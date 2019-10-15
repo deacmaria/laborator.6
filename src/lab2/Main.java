@@ -3,9 +3,9 @@ package lab2;
 public class Main {
 
     public static void main(String[] args) {
-        int x = 6;
-        int y = 4;
-        int z= 5;
+        int x= 7;
+        int y= 10;
+        int z= 11;
         int t= 7;
 
         System.out.println("Rezultatul adunarii este: " + sum(x, y));
